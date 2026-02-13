@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pitulescubogdan
-- 👀 I’m interested in working with latest technologies and best practices
-- 🌱 I’m working with .NET 8 and several Front-End technologies.
+- 👀 I’m interested in transitioning from .NET to Python for the backend stack
+- 🌱 I’m working with .NET 10 and Angular/React as for the Front-End technologies.
 - 💞️ I’m looking to collaborate on open source projects to improve my knowledge around the newest technologies.
 - 📫 How to reach me : by email on pitulescubogdan@gmail.com
 
